@@ -8,9 +8,9 @@ I still don't quite know how to have this done yet.
 
 
 ### I like 
-> Vanilla JS
-> React JS
-> HTML5
-> Web Development
-> Material Design
-> CSS
+- Vanilla JS
+- React JS
+- HTML5
+- Web Development
+- Material Design
+- CSS
